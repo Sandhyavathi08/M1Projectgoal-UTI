@@ -1,5 +1,11 @@
 # M1projectgoal-uti
-# M1_Projecttype_Goal
+# STUDENT RECORD MANAGEMENT SYSTEM
+# OVERVIEW:
+1. Now a days,Education becomes more and more efficient in our life.
+2. So in every schools and colleges,each student will perform on their own way.
+3. Some of them have achieved more and more.
+4. In order to save their performance,here we are going to prepare student record management system.
+
 
 
 ## FOLDER CONTENTS:
