@@ -23,3 +23,6 @@ _____________________
 PS NO. |  NAME  |    FEATURES    |
 -------|---------|----------------|
 99007594 |SANDHYAVATHI K | STUDENT RECORD MANAGEMENT SYSTEM|
+<a href="https://app.codiga.io/public/user/github/Sandhyavathi08">
+   <img src="https://api.codiga.io/public/badge/user/github/Sandhyavathi08?style=light" alt="codiga badge" />
+</a>
