@@ -3,7 +3,7 @@
 ___ 
 |Test Id  | Description |Exp I/P  |Exp O/P  |Act O/P  |Test Type  |
 |--|--|--|--|--|--|
-| HLR1 |student1 1name|SANDYA|SANDYA|SANDYA|Requirement based|
+| HLR1 |student1 1name|SANDHYA|SANDHYA|SANDHYA|Requirement based|
 |HLR2|student1 2ROLLNO |1803122|1803122|1803122|Requirement based|
 | HLR1 |student1 1name|RASIKA|RASIKA|RASIKA|Requirement based|
 |HLR2|student2  2ROLLNO |1803118|1803118|1803118|Requirement based|
