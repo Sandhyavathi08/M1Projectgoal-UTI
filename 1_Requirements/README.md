@@ -42,3 +42,6 @@
 # How does it works?
      *Here you have to enter  all your achievements , and it will display your academic performance record one by one. 
     
+![codiga_grade](https://api.codiga.io/project/31280/score/svg)
+![codiga_grade](https://api.codiga.io/project/31280/status/svg)
+![codiga_grade](https://app.codiga.io/public/project/31280/M1_Studentrecord_Utility/dashboard)
