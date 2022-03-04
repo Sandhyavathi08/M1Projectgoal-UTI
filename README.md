@@ -43,5 +43,6 @@ PS NO. |  NAME  |    FEATURES    |
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0e43b3b54d0347f7b598b48fc4fe37f1)](https://www.codacy.com/gh/Sandhyavathi08/M1_Studentrecord_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sandhyavathi08/M1_Studentrecord_Utility&amp;utm_campaign=Badge_Grade)
 [![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
+[![Unit Testing -Unity](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/unity.yml)
 
 
