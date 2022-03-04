@@ -45,5 +45,6 @@ PS NO. |  NAME  |    FEATURES    |
 [![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
 [![Unit Testing -Unity](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/unity.yml)
 [![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
+[![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
 
 
