@@ -32,7 +32,6 @@ PS NO. |  NAME  |    FEATURES    |
 
 ## status
 ![codiga_grade](https://api.codiga.io/project/31280/status/svg)
-[![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
 
 <a href="https://app.codiga.io/public/user/github/Sandhyavathi08">
    <img src="https://api.codiga.io/public/badge/user/github/Sandhyavathi08?style=light" alt="codiga badge" />
@@ -43,4 +42,5 @@ PS NO. |  NAME  |    FEATURES    |
 # codacy 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0e43b3b54d0347f7b598b48fc4fe37f1)](https://www.codacy.com/gh/Sandhyavathi08/M1_Studentrecord_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sandhyavathi08/M1_Studentrecord_Utility&amp;utm_campaign=Badge_Grade)
+[![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
 
