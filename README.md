@@ -32,6 +32,7 @@ PS NO. |  NAME  |    FEATURES    |
 
 ## status
 ![codiga_grade](https://api.codiga.io/project/31280/status/svg)
+[![Build-Linux](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Sandhyavathi08/M1_Studentrecord_Utility/actions/workflows/Build-Linux.yml)
 
 <a href="https://app.codiga.io/public/user/github/Sandhyavathi08">
    <img src="https://api.codiga.io/public/badge/user/github/Sandhyavathi08?style=light" alt="codiga badge" />
